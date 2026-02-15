@@ -2,12 +2,15 @@
 
 ## Authors
 
-* entity["people","Amir Hosseinpour","student id 40117393"]
-* entity["people","Mani Vafapour","student id 40123783"]
+Authors
 
-## Course
+👤 Amir Hosseinpour (Student ID: 40117393)
 
-Fundamentals of Intelligent Systems — Instructor: entity["people","Dr aliyari","course instructor"]
+👤 Mani Vafapour (Student ID: 40123783)
+
+Course
+
+Fundamentals of Intelligent Systems — Instructor: 👨‍🏫 Dr Aliyari
 
 ---
 
